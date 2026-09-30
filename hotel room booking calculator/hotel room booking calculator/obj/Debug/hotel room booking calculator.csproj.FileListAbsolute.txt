@@ -1,0 +1,10 @@
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\bin\Debug\hotel room booking calculator.exe.config
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\bin\Debug\hotel room booking calculator.exe
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\bin\Debug\hotel room booking calculator.pdb
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\obj\Debug\hotel room booking calculator.csproj.AssemblyReference.cache
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\obj\Debug\hotel_room_booking_calculator.Form1.resources
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\obj\Debug\hotel_room_booking_calculator.Properties.Resources.resources
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\obj\Debug\hotel room booking calculator.csproj.GenerateResource.cache
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\obj\Debug\hotel room booking calculator.csproj.CoreCompileInputs.cache
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\obj\Debug\hotel room booking calculator.exe
+C:\Users\Abdirisack\Documents\New folder\hotel room booking calculator\hotel room booking calculator\obj\Debug\hotel room booking calculator.pdb

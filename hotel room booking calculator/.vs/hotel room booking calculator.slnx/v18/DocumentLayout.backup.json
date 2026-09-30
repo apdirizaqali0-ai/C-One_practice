@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdirisack\\Documents\\New folder\\hotel room booking calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1373AF0-1042-448D-87AE-E8058275EC63}|hotel room booking calculator\\hotel room booking calculator.csproj|c:\\users\\abdirisack\\documents\\new folder\\hotel room booking calculator\\hotel room booking calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1373AF0-1042-448D-87AE-E8058275EC63}|hotel room booking calculator\\hotel room booking calculator.csproj|solutionrelative:hotel room booking calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1373AF0-1042-448D-87AE-E8058275EC63}|hotel room booking calculator\\hotel room booking calculator.csproj|c:\\users\\abdirisack\\documents\\new folder\\hotel room booking calculator\\hotel room booking calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1373AF0-1042-448D-87AE-E8058275EC63}|hotel room booking calculator\\hotel room booking calculator.csproj|solutionrelative:hotel room booking calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Abdirisack\\Documents\\New folder\\hotel room booking calculator\\hotel room booking calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "hotel room booking calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Abdirisack\\Documents\\New folder\\hotel room booking calculator\\hotel room booking calculator\\Form1.cs",
+              "RelativeToolTip": "hotel room booking calculator\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADgvzwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:22:08.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdirisack\\Documents\\New folder\\hotel room booking calculator\\hotel room booking calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "hotel room booking calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Abdirisack\\Documents\\New folder\\hotel room booking calculator\\hotel room booking calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "hotel room booking calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:58:13.105Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
