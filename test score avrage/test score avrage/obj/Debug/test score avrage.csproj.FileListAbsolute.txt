@@ -1,0 +1,11 @@
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\bin\Debug\test score avrage.exe.config
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\bin\Debug\test score avrage.exe
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\bin\Debug\test score avrage.pdb
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\obj\Debug\test score avrage.csproj.AssemblyReference.cache
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\obj\Debug\test_score_avrage.Form1.resources
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\obj\Debug\test_score_avrage.Properties.Resources.resources
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\obj\Debug\test score avrage.csproj.GenerateResource.cache
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\obj\Debug\test score avrage.csproj.CoreCompileInputs.cache
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\obj\Debug\test score avrage.exe
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\obj\Debug\test score avrage.pdb
+C:\Users\Abdirisack\Documents\test score avrage\test score avrage\obj\Debug\test score avrage.exe.config
