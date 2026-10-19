@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\bin\Debug\Course Registration Fee.exe.config
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\bin\Debug\Course Registration Fee.exe
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\bin\Debug\Course Registration Fee.pdb
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\obj\Debug\Course Registration Fee.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\obj\Debug\Course_Registration_Fee.Form1.resources
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\obj\Debug\Course_Registration_Fee.Properties.Resources.resources
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\obj\Debug\Course Registration Fee.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\obj\Debug\Course Registration Fee.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\obj\Debug\Course Registration Fee.exe
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\obj\Debug\Course Registration Fee.pdb
+C:\Users\HP\Documents\Course Registration Fee kan saxda\Course Registration Fee\Course Registration Fee\obj\Debug\Course Registration Fee.exe.config
